@@ -8,9 +8,9 @@ The main focus to run this application is Windows. It's possible to compile it a
 
 ## Development Builds
 
-[![Mesen](https://github.com/SourMesen/Mesen2/actions/workflows/build.yml/badge.svg)](https://github.com/SourMesen/Mesen2/actions/workflows/build.yml)
+will follow.
 
-#### <ins>Builds</ins> ####
+#### <ins>Ready-to-use Builds</ins> ####
 
 The software is in active development, builds will follow.
 
