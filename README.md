@@ -1,8 +1,8 @@
 # About
 
-This software version is based on Mesen2 by Sour.
+This software version is based on the amazing tool Mesen2 by Sour.
 
-This software version is based on Mesen2 from Sour. The main focus is on the emulation of a NES/Famicom game, which is why all setting options that are not directly related to the pure gaming experience have been removed. When the application is started, the pre-selected (supplied) NES/Famicom game is automatically started and executed.
+The main focus is on the emulation of a NES/Famicom game, which is why all setting options that are not directly related to the pure gaming experience have been removed. When the application is started, the pre-selected (supplied) NES/Famicom game is automatically started and executed.
 
 The main focus to run this application is Windows. It's possible to compile it also for Linux and macOS (with some limitations).
 
