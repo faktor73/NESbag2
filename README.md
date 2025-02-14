@@ -1,6 +1,10 @@
-# Mesen
+# About
 
-Mesen is a multi-system emulator (NES, SNES, Game Boy, Game Boy Advance, PC Engine, SMS/Game Gear, WonderSwan) for Windows, Linux and macOS.  
+This software version is based on Mesen2 by Sour.
+
+This software version is based on Mesen2 from Sour. The main focus is on the emulation of a NES/Famicom game, which is why all setting options that are not directly related to the pure gaming experience have been removed. When the application is started, the pre-selected (supplied) NES/Famicom game is automatically started and executed.
+
+The main focus to run this application is Windows. It's possible to compile it also for Linux and macOS (with some limitations).
 
 ## Development Builds
 
@@ -19,12 +23,6 @@ Follow
 ## Compiling
 
 See [COMPILING.md](COMPILING.md)
-
-## About this fork
-
-This software version is based on Mesen2 by Sour.
-
-This software version is based on Mesen2 from Sour. The main focus is on the emulation of a NES/Famicom game, which is why all setting options that are not directly related to the pure gaming experience have been removed. When the application is started, the pre-selected (supplied) NES/Famicom game is automatically started and executed.
 
 ## License
 
