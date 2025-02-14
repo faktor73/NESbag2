@@ -10,15 +10,13 @@ The main focus to run this application is Windows. It's possible to compile it a
 
 [![Mesen](https://github.com/SourMesen/Mesen2/actions/workflows/build.yml/badge.svg)](https://github.com/SourMesen/Mesen2/actions/workflows/build.yml)
 
-#### <ins>Ready-to-use builds</ins> ####
+#### <ins>Builds</ins> ####
 
-Follow
+The software is in active development, builds will follow.
 
 #### <ins>Notes / limitations</ins> ####
 
 **macOS**: The macOS build still has a number of limitations (e.g no gamepad support).
-
-**SteamOS**: See [SteamOS.md](SteamOS.md)
 
 ## Compiling
 
