@@ -1,14 +1,10 @@
 # About
 
-This software version is based on the amazing tool Mesen2 by Sour.
+NESbag 2 is a modified version of and based on the amazing tool Mesen2 by Sour.
 
 The main focus is on the emulation of a NES/Famicom game, which is why all setting options that are not directly related to the pure gaming experience have been removed. When the application is started, the pre-selected (supplied) NES/Famicom game is automatically started and executed.
 
 The main focus to run this application is Windows. It's possible to compile it also for Linux and macOS (with some limitations).
-
-## Development Builds
-
-will follow.
 
 #### <ins>Ready-to-use Builds</ins> ####
 
@@ -24,9 +20,9 @@ See [COMPILING.md](COMPILING.md)
 
 ## License
 
-Mesen is available under the GPL V3 license.  Full text here: <http://www.gnu.org/licenses/gpl-3.0.en.html>
+NESbag 2 is available under the GPL V3 license.  Full text here: <http://www.gnu.org/licenses/gpl-3.0.en.html>
 
-Copyright (C) 2014-2024 Sour
+Mesen 2 is Copyright (C) 2014-2024 Sour
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
